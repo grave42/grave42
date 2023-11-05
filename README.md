@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Filipp ! Welcome
+I have few public projects, beacouse all projects in which I participate take money for owners. 😎💵
 
+### Here is my study projects:
+[Java Elementary] (https://github.com/grave42/job4j_tracker)
 <!--
 **grave42/grave42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
