@@ -6,4 +6,4 @@ I have few public projects, beacouse all projects in which I participate take mo
 
 
 ### Here is my study projects:
-[Java Elementary] (https://github.com/grave42/job4j_tracker)
+[Java Elementary](https://github.com/grave42/job4j_tracker)
